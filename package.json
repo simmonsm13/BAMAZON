@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon Project",
+  "main": "bamazoncustomer.js",
+  "scripts": {
+    "test": "Bamazonian"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simmonsm13/BAMAZON.git"
+  },
+  "keywords": [
+    "Bamazon"
+  ],
+  "author": "Michael Simmons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simmonsm13/BAMAZON/issues"
+  },
+  "homepage": "https://github.com/simmonsm13/BAMAZON#readme"
+}
